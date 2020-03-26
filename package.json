@@ -1,0 +1,15 @@
+{
+  "name": "mrtask",
+  "version": "1.0.0",
+  "description": "App de lista de tareas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kin Casasbuenas",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.1.0"
+  }
+}
